@@ -1,0 +1,19 @@
+body { background-color: #fff; width: 100%; height: 100%; margin: 0 auto; display: -ms-flexbox; display: flex; -ms-flex-pack: center; justify-content: center; -ms-flex-align: center; align-items: center; text-align: center; }
+
+body main { background-color: #55acee; width: 600px; height: 400px; font-family: 'Open Sans Condensed', sans-serif; }
+
+body main .header { color: #fff; padding-bottom: 20px; }
+
+body main .box { color: #fff; font-size: 10px; font-weight: normal; }
+
+body main .box .quote { padding: 20px 0; }
+
+body main .box .author { padding-bottom: 20px; }
+
+body main .boxBtn { color: #fff; display: -ms-flexbox; display: flex; -ms-flex-pack: center; justify-content: center; -ms-flex-align: center; align-items: center; -ms-flex-direction: column; flex-direction: column; font-family: 'Open Sans Condensed', sans-serif; padding: 30px 0; }
+
+body main .boxBtn .trigger { margin-bottom: 20px; background-color: #55acee; border: 0.5px solid #fff; border-radius: 4px; color: #fff; width: 200px; height: 30px; font-size: 12px; }
+
+body main .boxBtn .tweet { background-color: #55acee; color: #fff; text-decoration: none; border: 0.5px solid #fff; border-radius: 4px; width: 200px; height: 30px; font-size: 12px; display: -ms-flexbox; display: flex; -ms-flex-pack: center; justify-content: center; -ms-flex-align: center; align-items: center; }
+
+body main .boxBtn .tweet .fa-twitter { padding-right: 5px; }
